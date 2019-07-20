@@ -1,0 +1,5 @@
+﻿User-agent: *
+Disallow: /mediafile/
+Disallow: /CSSSetting/
+Disallow: /Ast.Passport.Web/
+Disallow: /Ast.Gallery.Web/
